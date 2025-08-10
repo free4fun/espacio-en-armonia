@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "introduccion-al-bienestar-holistico",
+    "title": "Introducción al Bienestar Holístico",
+    "author": "María López",
+    "date": "2025-07-01",
+    "tags": ["bienestar"],
+    "image": "",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, velit nec egestas tristique, elit arcu faucibus neque, vitae bibendum magna nulla ac magna. Integer a urna vitae leo fermentum dignissim. \n\nAliquam erat volutpat. Donec in leo ut augue sollicitudin hendrerit. In non velit non ligula faucibus volutpat. Vivamus nec turpis sit amet neque rhoncus porta. Suspendisse potenti. Quisque vitae risus nec justo volutpat volutpat. Proin vitae diam nec nunc fermentum facilisis."
+  },
+  {
+    "slug": "los-beneficios-de-la-meditacion-diaria",
+    "title": "Los Beneficios de la Meditación Diaria",
+    "author": "Carlos Martínez",
+    "date": "2025-07-10",
+    "tags": ["meditación", "estrés"],
+    "image": "",
+    "content": "Praesent dapibus, justo sed posuere varius, nulla ligula facilisis nunc, ac vehicula orci nulla at justo. Duis a lacinia lorem. Cras eget erat sed odio gravida convallis. \n\nNam suscipit, lorem sed congue dapibus, leo justo sagittis purus, a dignissim neque erat a purus. Maecenas nec sem sit amet nunc mattis dignissim. Sed ultricies porttitor enim, at eleifend orci accumsan id. Curabitur at ex sed ligula iaculis fermentum."
+  },
+  {
+    "slug": "rituales-de-luna-llena-para-renovar-energias",
+    "title": "Rituales de Luna Llena para Renovar Energías",
+    "author": "Lucía Fernández",
+    "date": "2025-07-20",
+    "tags": ["rituales", "luna llena"],
+    "image": "",
+    "content": "Morbi et turpis at libero luctus feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; \n\nCurabitur at diam at velit tincidunt consequat. Ut tempus, magna ut pretium porttitor, justo erat tincidunt lorem, id fermentum nulla purus nec arcu. Etiam porta ante nec dui fringilla, vel imperdiet nulla lacinia. Fusce imperdiet leo in neque blandit, sed gravida leo cursus."
+  },
+  {
+    "slug": "dummy1",
+    "title": "Dummy Post 1",
+    "author": "Carlos Martínez",
+    "date": "2025-07-10",
+    "tags": ["meditación", "estrés"],
+    "image": "",
+    "content": "Praesent dapibus, justo sed posuere varius, nulla ligula facilisis nunc, ac vehicula orci nulla at justo. Duis a lacinia lorem. Cras eget erat sed odio gravida convallis. \n\nNam suscipit, lorem sed congue dapibus, leo justo sagittis purus, a dignissim neque erat a purus. Maecenas nec sem sit amet nunc mattis dignissim. Sed ultricies porttitor enim, at eleifend orci accumsan id. Curabitur at ex sed ligula iaculis fermentum."
+  },
+  {
+    "slug": "dummy2",
+    "title": "Dummy Post 2",
+    "author": "Lucía Fernández",
+    "date": "2025-07-20",
+    "tags": ["rituales", "luna llena"],
+    "image": "",
+    "content": "Morbi et turpis at libero luctus feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; \n\nCurabitur at diam at velit tincidunt consequat. Ut tempus, magna ut pretium porttitor, justo erat tincidunt lorem, id fermentum nulla purus nec arcu. Etiam porta ante nec dui fringilla, vel imperdiet nulla lacinia. Fusce imperdiet leo in neque blandit, sed gravida leo cursus."
+  },
+  {
+    "slug": "dummy3",
+    "title": "Dummy Post 3",
+    "author": "Carlos Martínez",
+    "date": "2025-07-10",
+    "tags": ["meditación", "estrés"],
+    "image": "",
+    "content": "Praesent dapibus, justo sed posuere varius, nulla ligula facilisis nunc, ac vehicula orci nulla at justo. Duis a lacinia lorem. Cras eget erat sed odio gravida convallis. \n\nNam suscipit, lorem sed congue dapibus, leo justo sagittis purus, a dignissim neque erat a purus. Maecenas nec sem sit amet nunc mattis dignissim. Sed ultricies porttitor enim, at eleifend orci accumsan id. Curabitur at ex sed ligula iaculis fermentum."
+  },
+  {
+    "slug": "dummy4",
+    "title": "Dummy Post 4",
+    "author": "Lucía Fernández",
+    "date": "2025-07-20",
+    "tags": ["rituales", "luna llena"],
+    "image": "",
+    "content": "Morbi et turpis at libero luctus feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; \n\nCurabitur at diam at velit tincidunt consequat. Ut tempus, magna ut pretium porttitor, justo erat tincidunt lorem, id fermentum nulla purus nec arcu. Etiam porta ante nec dui fringilla, vel imperdiet nulla lacinia. Fusce imperdiet leo in neque blandit, sed gravida leo cursus."
+  }
+]

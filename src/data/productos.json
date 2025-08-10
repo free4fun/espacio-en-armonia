@@ -1,0 +1,33 @@
+[  {
+    "id": 2,
+    "name": "Vela de Miel Artesanal - Abundancia",
+    "category": "velas",
+    "image": "/images/shop/candles/candle1.webp",
+    "originalPrice": 700,
+    "discountedPrice": 550
+  },
+  {
+    "id": 3,
+    "name": "Flauta Nativa de Madera - Tono Re",
+    "category": "flautas",
+    "image": "/images/shop/flutes/flute1.webp",
+    "originalPrice": 2200,
+    "discountedPrice": 1900
+  },
+  {
+    "id": 4,
+    "name": "Gema Amatista - Energía Intuitiva",
+    "category": "gemas",
+    "image": "/images/shop/gems/gem1.webp",
+    "originalPrice": 900,
+    "discountedPrice": 750
+  },
+  {
+    "id": 5,
+    "name": "Espíritu Animal - Libro de Sabiduría Chamánica",
+    "category": "libro",
+    "image": "/images/shop/books/book1.webp",
+    "originalPrice": 950,
+    "discountedPrice": 850
+  }
+]

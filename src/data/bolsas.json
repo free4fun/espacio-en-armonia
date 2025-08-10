@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "slug": "poder-personal",
+    "name": "Armonía Interior",
+    "description": "Hierbas y minerales que favorecen el equilibrio emocional y la paz mental.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Lavanda", "Cuarzo Rosa", "Cedro", "Sahumo"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 2,
+    "slug": "proteccion-energetica",
+    "name": "Protección Energética",
+    "description": "Diseñada para resguardar tu campo energético y repeler energías densas.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp"
+    ],
+    "ingredients": ["Ruda", "Turmalina Negra", "Copal", "Salvia Blanca"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 3,
+    "slug": "abundancia-y-prosperidad",
+    "name": "Claridad y Visión",
+    "description": "Activa tu intuición, mejora la concentración y potencia la conexión espiritual.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Romero", "Amatista", "Mirra", "Laurel"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 4,
+    "slug": "abundancia-y-prosperidad",
+    "name": "Claridad y Visión",
+    "description": "Activa tu intuición, mejora la concentración y potencia la conexión espiritual.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Romero", "Amatista", "Mirra", "Laurel"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 5,
+    "slug": "abundancia-y-prosperidad",
+    "name": "Claridad y Visión",
+    "description": "Activa tu intuición, mejora la concentración y potencia la conexión espiritual.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Romero", "Amatista", "Mirra", "Laurel"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 6,
+    "slug": "abundancia-y-prosperidad",
+    "name": "Claridad y Visión",
+    "description": "Activa tu intuición, mejora la concentración y potencia la conexión espiritual.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Romero", "Amatista", "Mirra", "Laurel"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  },
+  {
+    "id": 7,
+    "slug": "abundancia-y-prosperidad",
+    "name": "Claridad y Visión",
+    "description": "Activa tu intuición, mejora la concentración y potencia la conexión espiritual.",
+    "images": [
+      "/images/shop/bolsas/bolsa1.webp",
+      "/images/shop/bolsas/bolsa2.webp",
+      "/images/shop/bolsas/bolsa3.webp"
+    ],
+    "ingredients": ["Romero", "Amatista", "Mirra", "Laurel"],
+    "originalPrice": 200,
+    "discountedPrice": 170
+  }
+]
